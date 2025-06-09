@@ -27,19 +27,19 @@ lung_colon_image_set/
 ### ✔️ Class Distribution
 - Visualized using seaborn bar plots.
 - Displays the number of samples per class.
-- ![Class Distribution](path/to/class_distribution.png)
+- ![Class Distribution](ClassDistribution.png)
 
 ### 🖼️ Sample Images per Class
 - Displays 5 randomly sampled images for each label.
-- ![Sample Images](path/to/sample_images.png)
+- ![Sample Images](LungCancerVisualization.png)
 
 ### 🔗 Color Channel Correlation
 - Pearson correlation matrix between R, G, and B channels.
-- ![Color Channel Correlation](path/to/color_channel_correlation.png)
+- ![Color Channel Correlation](ColorChannelCorrelation.png)
 
 ### 📈 Mean Pixel Intensity Distribution
 - Histogram of grayscale mean intensity values from 500 random samples.
-- ![Mean Intensity Distribution](path/to/mean_intensity_distribution.png)
+- ![Mean Intensity Distribution](MeanPixelIntensityDistribution.png)
 
 ## 🧪 Dataset Statistics
 - **Mean RGB (1000 samples):** Computed for dataset normalization.
