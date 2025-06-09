@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.18.1
+torchaudio==2.5.1
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+tqdm
+Pillow
