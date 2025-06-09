@@ -21,7 +21,7 @@ lung_colon_image_set/
     ├── lung_aca/
     ├── lung_scc/
     └── lung_n/
-
+```
 ## 📊 Exploratory Data Analysis
 
 ### ✔️ Class Distribution
