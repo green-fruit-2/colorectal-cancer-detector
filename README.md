@@ -66,6 +66,16 @@ lung_colon_image_set/
 | SGD       | 0.01          | 99.92%           | 12m 19s       |
 
 ---
+### 📊 Evaluation on New Data
+
+| Model            | Accuracy | Cohen’s Kappa | AUC    |
+|------------------|----------|----------------|--------|
+| **CNN–ViT Hybrid** | **0.9937** | **0.9825**     | 0.9998 |
+| **ResNet50**       | 0.9909   | 0.9748          | **0.9999** |
+
+> These results highlight the strong generalization capability of both models on unseen data, with CNN–ViT Hybrid achieving the highest accuracy and Kappa score, while ResNet50 scored the best AUC.
+
+---
 
 ## 🙌 Acknowledgments
 
