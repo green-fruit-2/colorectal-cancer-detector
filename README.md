@@ -22,6 +22,25 @@ lung_colon_image_set/
     ├── lung_scc/
     └── lung_n/
 ```
+
+### Binary Label Mapping for Tissue Classes
+
+The dataset's original tissue classes are mapped to binary labels for cancer detection:
+
+- **Label 0 (Non-cancerous / Normal tissue):**
+  - `ADI`: Adipose tissue
+  - `BACK`: Background (non-tissue)
+  - `DEB`: Debris
+  - `LYM`: Lymphocytes
+  - `MUC`: Mucus
+  - `MUS`: Muscle
+  - `NORM`: Normal colon mucosa
+
+- **Label 1 (Cancerous / Tumor-related tissue):**
+  - `STR`: Stroma (connective tissue, often altered in cancer)
+  - `TUM`: Tumor epithelium
+
+
 ## 📊 Exploratory Data Analysis
 
 ### ✔️ Class Distribution
