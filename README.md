@@ -74,7 +74,7 @@ The dataset's original tissue classes are mapped to binary labels for cancer det
 The model is evaluated using:
 
 - **Accuracy**: Proportion of correct predictions.
-- **Cohen’s Kappa**: Measures how much better the classifier performs compared to random chance. Useful for imbalanced classes and clinical relevance.
+- **Cohen’s Kappa**: Measures how much better the classifier performs compared to random chance. Useful for imbalanced classes and clinical relevance. The kappa statistic, which is a number between -1 and 1. The maximum value means complete agreement; zero or lower means chance agreement.
 - **ROC AUC**: Captures how well the model distinguishes between classes across different thresholds.
 
 
