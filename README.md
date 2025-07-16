@@ -69,6 +69,15 @@ The dataset's original tissue classes are mapped to binary labels for cancer det
 
 ## 🚀 Model Training & Results
 
+### 🧪 Model Evaluation Metrics
+
+The model is evaluated using:
+
+- **Accuracy**: Proportion of correct predictions.
+- **Cohen’s Kappa**: Measures how much better the classifier performs compared to random chance. Useful for imbalanced classes and clinical relevance.
+- **ROC AUC**: Captures how well the model distinguishes between classes across different thresholds.
+
+
 ### 🔧 Model Configuration
 - Base model: ResNet-18 pretrained on ImageNet.
 - Frozen layers: All except final FC layer.
