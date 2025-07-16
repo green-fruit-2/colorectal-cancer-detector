@@ -23,7 +23,7 @@ lung_colon_image_set/
     └── lung_n/
 ```
 
-### Binary Label Mapping for Tissue Classes
+### 🧬 Binary Label Mapping for Tissue Classes
 
 The dataset's original tissue classes are mapped to binary labels for cancer detection:
 
