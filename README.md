@@ -4,6 +4,18 @@ A deep learning project using transfer learning (ResNet-18) to classify histopat
 
 ---
 
+## 🚀 How to Run the Program
+
+To run the colorectal cancer detection pipeline:
+
+1. Open the file [`final_as_notebook.ipynb`](./final_as_notebook.ipynb) using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/).
+2. Execute each cell in order from top to bottom.
+3. Make sure the dataset (`CRC-VAL-HE-7K.zip`) is uploaded or accessible at the expected path.
+4. The notebook will handle preprocessing, model training, and evaluation (including accuracy, Cohen’s Kappa, and AUC).
+
+> 💡 **Tip:** If using Google Colab, you can drag and drop the `.zip` file directly into the file browser.
+
+
 ## 🔗 Dataset Source
 
 **📌 Kaggle**: [Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
