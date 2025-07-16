@@ -18,7 +18,7 @@ To run the colorectal cancer detection pipeline:
 
 ## 🔗 Dataset Source
 
-**📌 Kaggle**: [Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/imrankhan77/crc-val-he-7k/data)
+**📌 Kaggle**: [Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/imrankhan77/crc-val-he-7k/data)
 
 ---
 
